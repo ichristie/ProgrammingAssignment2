@@ -1,4 +1,3 @@
-
 # The following functions allow for the inverse of a matrix to be cached
 # so it's value can be looked up for future use rather than recomputed.
 
